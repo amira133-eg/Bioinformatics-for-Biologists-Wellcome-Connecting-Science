@@ -1,2 +1,3 @@
 # Bioinformatics-for-Biologists-Wellcome-Connecting-Science
-summary
+
+#     1- command line basics 
